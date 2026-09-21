@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Manas-172006/leetcode_probems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Manas-172006/leetcode_probems/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Manas-172006/leetcode_probems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Manas-172006/leetcode_probems/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Manas-172006/leetcode_probems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Manas-172006/leetcode_probems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Two Pointers
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Manas-172006/leetcode_probems/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Manas-172006/leetcode_probems/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Manas-172006/leetcode_probems/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manas-172006/leetcode_probems/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Manas-172006/leetcode_probems/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
