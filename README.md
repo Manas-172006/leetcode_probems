@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manas-172006/leetcode_probems/tree/master/0020-valid-parentheses) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3498-reverse-degree-of-a-string](https://github.com/Manas-172006/leetcode_probems/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
@@ -101,4 +102,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Manas-172006/leetcode_probems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3498-reverse-degree-of-a-string](https://github.com/Manas-172006/leetcode_probems/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
