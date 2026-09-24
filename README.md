@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Manas-172006/leetcode_probems/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Manas-172006/leetcode_probems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Manas-172006/leetcode_probems/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Manas-172006/leetcode_probems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Manas-172006/leetcode_probems/tree/master/0075-sort-colors) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Manas-172006/leetcode_probems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0189-rotate-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Manas-172006/leetcode_probems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Quicksort
@@ -110,5 +112,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Manas-172006/leetcode_probems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Manas-172006/leetcode_probems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
