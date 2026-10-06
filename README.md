@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manas-172006/leetcode_probems/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manas-172006/leetcode_probems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Manas-172006/leetcode_probems/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manas-172006/leetcode_probems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
 |  |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manas-172006/leetcode_probems/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manas-172006/leetcode_probems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Array
 |  |
 | ------- |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Manas-172006/leetcode_probems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Manas-172006/leetcode_probems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Manas-172006/leetcode_probems/tree/master/0073-set-matrix-zeroes) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manas-172006/leetcode_probems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
