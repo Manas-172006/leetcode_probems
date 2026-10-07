@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Manas-172006/leetcode_probems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Manas-172006/leetcode_probems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/0229-majority-element-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/Manas-172006/leetcode_probems/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Manas-172006/leetcode_probems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Manas-172006/leetcode_probems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Manas-172006/leetcode_probems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Manas-172006/leetcode_probems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Manas-172006/leetcode_probems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2965-find-missing-and-repeated-values](https://github.com/Manas-172006/leetcode_probems/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Manas-172006/leetcode_probems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Manas-172006/leetcode_probems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Manas-172006/leetcode_probems/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Manas-172006/leetcode_probems/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0189-rotate-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/Manas-172006/leetcode_probems/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Manas-172006/leetcode_probems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Quicksort
 |  |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Manas-172006/leetcode_probems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Manas-172006/leetcode_probems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Manas-172006/leetcode_probems/tree/master/0073-set-matrix-zeroes) |
+| [2965-find-missing-and-repeated-values](https://github.com/Manas-172006/leetcode_probems/tree/master/2965-find-missing-and-repeated-values) |
 ## Bracket Sequences
 |  |
 | ------- |
