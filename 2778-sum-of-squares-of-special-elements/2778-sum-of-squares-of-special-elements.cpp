@@ -1,7 +1,7 @@
 class Solution {
 public:
     int sumOfSquares(vector<int>& nums) {
-        //size(n)= nums[i]/n==0
+        //size(n)= n/i+1==0
         //if 0 then nums[i]*nums[i]
         //return sum of squar value 
         int n = nums.size();
