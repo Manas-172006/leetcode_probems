@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Manas-172006/leetcode_probems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Manas-172006/leetcode_probems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Manas-172006/leetcode_probems/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Manas-172006/leetcode_probems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2965-find-missing-and-repeated-values](https://github.com/Manas-172006/leetcode_probems/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Manas-172006/leetcode_probems/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Manas-172006/leetcode_probems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Manas-172006/leetcode_probems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Manas-172006/leetcode_probems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
