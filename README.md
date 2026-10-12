@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Manas-172006/leetcode_probems/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Manas-172006/leetcode_probems/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/Manas-172006/leetcode_probems/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Manas-172006/leetcode_probems/tree/master/0053-maximum-subarray) |
@@ -146,5 +147,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
