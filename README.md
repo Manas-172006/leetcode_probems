@@ -109,7 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Manas-172006/leetcode_probems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Manas-172006/leetcode_probems/tree/master/0169-majority-element) |
-## Boyer–Moore Majority Vote Algorithm
+## BoyerâMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manas-172006/leetcode_probems/tree/master/0169-majority-element) |
