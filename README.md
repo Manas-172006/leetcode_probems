@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Manas-172006/leetcode_probems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Manas-172006/leetcode_probems/tree/master/0485-max-consecutive-ones) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Manas-172006/leetcode_probems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Manas-172006/leetcode_probems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Manas-172006/leetcode_probems/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -153,4 +154,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
