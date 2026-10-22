@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Manas-172006/leetcode_probems/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/Manas-172006/leetcode_probems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0189-rotate-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/Manas-172006/leetcode_probems/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Manas-172006/leetcode_probems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Manas-172006/leetcode_probems/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Manas-172006/leetcode_probems/tree/master/0162-find-peak-element) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Manas-172006/leetcode_probems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Manas-172006/leetcode_probems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
