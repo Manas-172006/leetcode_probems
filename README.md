@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Manas-172006/leetcode_probems/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Manas-172006/leetcode_probems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/0229-majority-element-ii) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Counting
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Manas-172006/leetcode_probems/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Manas-172006/leetcode_probems/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manas-172006/leetcode_probems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Manas-172006/leetcode_probems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0540-single-element-in-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Manas-172006/leetcode_probems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Manas-172006/leetcode_probems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0189-rotate-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Manas-172006/leetcode_probems/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Manas-172006/leetcode_probems/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Manas-172006/leetcode_probems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Quicksort
