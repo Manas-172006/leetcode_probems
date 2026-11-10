@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Manas-172006/leetcode_probems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Manas-172006/leetcode_probems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/0229-majority-element-ii) |
+| [0940-fruit-into-baskets](https://github.com/Manas-172006/leetcode_probems/tree/master/0940-fruit-into-baskets) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Manas-172006/leetcode_probems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Manas-172006/leetcode_probems/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/Manas-172006/leetcode_probems/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Manas-172006/leetcode_probems/tree/master/0540-single-element-in-a-sorted-array) |
+| [0940-fruit-into-baskets](https://github.com/Manas-172006/leetcode_probems/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manas-172006/leetcode_probems/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Manas-172006/leetcode_probems/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Manas-172006/leetcode_probems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -140,7 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Manas-172006/leetcode_probems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Manas-172006/leetcode_probems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/0240-search-a-2d-matrix-ii) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manas-172006/leetcode_probems/tree/master/0169-majority-element) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manas-172006/leetcode_probems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/Manas-172006/leetcode_probems/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manas-172006/leetcode_probems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Manas-172006/leetcode_probems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
