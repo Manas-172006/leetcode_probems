@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Manas-172006/leetcode_probems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/0229-majority-element-ii) |
 | [0940-fruit-into-baskets](https://github.com/Manas-172006/leetcode_probems/tree/master/0940-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Manas-172006/leetcode_probems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Manas-172006/leetcode_probems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/Manas-172006/leetcode_probems/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Manas-172006/leetcode_probems/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manas-172006/leetcode_probems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Manas-172006/leetcode_probems/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Manas-172006/leetcode_probems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Manas-172006/leetcode_probems/tree/master/3498-reverse-degree-of-a-string) |
 ## Greedy
@@ -229,5 +231,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manas-172006/leetcode_probems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0940-fruit-into-baskets](https://github.com/Manas-172006/leetcode_probems/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manas-172006/leetcode_probems/tree/master/1004-max-consecutive-ones-iii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Manas-172006/leetcode_probems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Manas-172006/leetcode_probems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
