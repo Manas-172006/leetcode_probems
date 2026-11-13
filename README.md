@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Manas-172006/leetcode_probems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Manas-172006/leetcode_probems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Manas-172006/leetcode_probems/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Manas-172006/leetcode_probems/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Manas-172006/leetcode_probems/tree/master/0940-fruit-into-baskets) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Manas-172006/leetcode_probems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Manas-172006/leetcode_probems/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manas-172006/leetcode_probems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Manas-172006/leetcode_probems/tree/master/0020-valid-parentheses) |
+| [0424-longest-repeating-character-replacement](https://github.com/Manas-172006/leetcode_probems/tree/master/0424-longest-repeating-character-replacement) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Manas-172006/leetcode_probems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Manas-172006/leetcode_probems/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Manas-172006/leetcode_probems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manas-172006/leetcode_probems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/Manas-172006/leetcode_probems/tree/master/0424-longest-repeating-character-replacement) |
 | [0940-fruit-into-baskets](https://github.com/Manas-172006/leetcode_probems/tree/master/0940-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Manas-172006/leetcode_probems/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Manas-172006/leetcode_probems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
